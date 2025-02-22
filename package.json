@@ -8,11 +8,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "scripts": {
-  "prebuild": "node scripts/generate-sitemap.js",
-  "build": "next build",
-  "export": "next export"
-},
   "dependencies": {
     "axios": "^1.7.9",
     "local-storage": "^2.0.0",
