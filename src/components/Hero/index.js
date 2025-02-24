@@ -51,7 +51,7 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="md:w-1/3 mt-6 md:mt-0 flex justify-center mt-6">
-                    <Image src="/images/livetracking.png" alt="Map" width={300} height={300} className="rounded-lg" />
+                    <Image src="/images/liveTracking.png" alt="Map" width={300} height={300} className="rounded-lg" />
                 </div>
             </div>
         </div>
